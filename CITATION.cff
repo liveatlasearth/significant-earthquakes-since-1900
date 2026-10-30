@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below, along with the original source."
+type: dataset
+title: "Significant Earthquakes Since 1900"
+version: "1.0"
+date-released: 2026-10-30
+license: CC-BY-4.0
+url: "https://github.com/liveatlasearth/significant-earthquakes-since-1900"
+repository-code: "https://github.com/liveatlasearth/significant-earthquakes-since-1900"
+abstract: "Every Significant Earthquake Since 1900, With Deaths, Damage and Tsunamis. 4,094 significant earthquakes since 1900 with deaths, injuries, damage and tsunami flag. CSV, CC BY 4.0. NOAA NCEI data, by Live Atlas"
+keywords:
+  - earthquakes
+  - dataset
+  - natural-disasters
+  - seismology
+  - noaa
+  - csv
+  - geospatial
+  - disaster-risk
+authors:
+  - given-names: Nathan
+    family-names: Ridge
+    affiliation: Live Atlas
+  - name: Live Atlas
+    website: "https://www.liveatlas.earth/"
